@@ -1,8 +1,6 @@
 # Coworking w Krakowie
 
-## Update 28.04.2018
-
-Otworzyło się ostatnio tyle nowych coworków, że nie nadążam tego odwiedzać :) Będę się starał stopniowo aktualizować listę, w międzyczasie polecam przeglądnąć komentarze pod postem. (Nie chcę szczerze mówiąc przenosić tego do jakiegoś bardziej zorganizowanego repozytorium, bo chcę, żeby to pozostało takim moim osobistym nieobiektywnym review tych coworków - ciężko byłoby uzgadniać, czy w danym miejscu jest głośno, albo czy jest fajna atmosfera... W razie wątpliwości, post jest dostępny na licencji WTFPL :)
+Orginalna treść z https://gist.github.com/mackuba/7271345
 
 Przydatne linki:
 
