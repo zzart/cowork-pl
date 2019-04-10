@@ -1,6 +1,6 @@
 # Coworking w Krakowie
 
-Orginalna treść z https://gist.github.com/mackuba/7271345
+Orginalna treść z https://gist.github.com/mackuba/7271345 
 
 Przydatne linki:
 
@@ -58,6 +58,7 @@ Spis treści:
 
 #### Adres: ul. Przemysłowa 12 (Factory Park, Zabłocie - naprzeciwko Balu)
 
+* na obecną chwilę 2019 (pierwszy kwartał) brak miejsc. 
 * nie jest to typowe biuro coworkingowe - główna działalność to akcelerator startupów
 * coworking też jest (około połowy osób to freelancerzy), ale raczej nastawiony na budowanie jakiejś społeczności osób które będą coś razem robić i sobie nawzajem pomagać, dlatego nie można po prostu przyjść i wykupić jakiś pakiet, tylko trzeba najpierw przejść interview sprawdzający, czy pasuje się do zespołu
 * aktualnie chyba w ogóle ciężko dostać miejsce (ale wiele osób przychodzi nieregularnie, więc tłumów nie ma)
@@ -137,18 +138,15 @@ Spis treści:
 
 #### Miejsce 1: ul. Mogilska 65 (IV piętro)
 
+* na obecną chwilę pierwszy kwartał 2019 całe biuro zostało wynajęte jednej firmie - brak miejsc. 
 * nowoczesny wystrój, dwie sale coworkingowe (open space), sala z "cubiclami" a la Dilbert, sale konferencyjne i kilka mniejszych pokoi, plus chillout room, kuchnia itp. (plan na stronie)
 * @johnstevens7: "W Business Linku odbywają się różnego rodzaju eventy - barcampy technologiczne, konferencje tematyczne, czy warsztaty.
 W pakiecie są też różne zniżki min. na Enel Med, Sare, czy landingi.pl"
 
 #### Miejsce 2: ul. Pawia 9
 
-(jeszcze nie testowałem)
-
-#### Cennik
-
-* miesiąc (24/7) - 500 + VAT
-* 1-3 dni próbne za free
+* brak miejsca na monitory/ dodatkowy sprzęt 
+* dedykowane biura dość drogie
 
 ---
 
@@ -248,5 +246,8 @@ W pakiecie są też różne zniżki min. na Enel Med, Sare, czy landingi.pl"
 
 * biuro nastawione przede wszystkim na osoby tworzące rzeczy "fizyczne", nie tylko na komputerze
 * osobne sale do głośnej pracy na maszynach, "drobnego dłubania" i typowego coworkingu
+* budynek (wewnątrz/zewnątrz) w epoce PRL'u ;D
+* biurka i krzesła słabej jakości
+* jedna sala konferencyjna
 * cena: 80-450 zł za mc w zależności od pakietu
 
