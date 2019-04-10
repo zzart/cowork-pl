@@ -6,6 +6,7 @@ Przydatne linki:
 
 - [mapka autorstwa @oki](https://www.google.com/maps/d/viewer?mid=1cFZt_BhKJYCoaXtVeQKytl7Utp4&hl=pl&ll=50.04924319560434%2C19.928220799999963&z=13)
 - [coworker.com](https://www.coworker.com/search/krakow/poland)
+- [omgkrk.com](https://www.omgkrk.com/coworkingkrakow/)
 
 Spis treści:
 
